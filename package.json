@@ -1,0 +1,14 @@
+{
+  "name": "vtol",
+  "version": "1.0.3",
+  "description": "",
+  "main": "vtol.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pravandan Chand",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.87.0"
+  }
+}
