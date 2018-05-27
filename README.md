@@ -43,7 +43,7 @@ router.post('/login',vtol.vtolSpecialEvents({
  
 ```
 
-![alt text](https://drive.google.com/file/d/1joHaHir1-qs9ec84rdDNZKN-6kJrsHdH/view)
+![alt text](https://ibb.co/edNRD8)
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
@@ -52,7 +52,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 [MIT](https://choosealicense.com/licenses/mit/)
 
 ## Authors and Contributors
-Pravandan Chand - linkedin.com/in/pravandan
+Pravandan Chand - [LinkedIn Profile](linkedin.com/in/pravandan)
 
 ## Keywords
 log, slack, events, logging, notification
